@@ -1,7 +1,9 @@
 # MiniProjectBt
 ARDUINO AND ANDROID BASED IoT APPLICATION
 
-Download the [code](code.ino)
+Download the Android [apk](https://github.com/Sujaykumarh/MiniProjectBt/raw/master/BtRemote_v1.apk)
+
+Download the Arduino due [code](code.ino)
 
 ## Bread board view
 
